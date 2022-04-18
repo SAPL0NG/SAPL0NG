@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+}
+.title{
+    font-style: inherit;
+}
+header{
+    background-repeat: none;
+    background-color:rgba(34, 118, 124, 0.844);
+    text-align:center;
+    display:flex;
+
+}
+.redirect:hover{
+    width:102px;
+}
+table{
+    display:flex;
+    border:2px solid black;
+}
+footer{
+    background-color: rgba(34, 118, 124, 0.844);
+    text-align:right;
+    margin-top: 60%;
+    padding-bottom:30px;
+    padding-top:10px;
+}
+span .right-inner{
+    text-align:right;
+}
